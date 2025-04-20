@@ -1,1 +1,2 @@
-# for_python
+ some scripts python
+ ansible
